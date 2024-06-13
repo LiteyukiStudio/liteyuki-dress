@@ -1,2 +1,3 @@
 # liteyuki-dress
 好耶，也是女装
+pr规范：用户名/图片.jpg/png...
